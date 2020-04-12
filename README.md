@@ -7,7 +7,11 @@ Product Manager (PM) is an elusive and complex role and if you’re starting out
 This document is an attempt to provide a concise and relevant definition of the product management role, focussing on technology products (more than ever, [software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)). In many ways, I am still starting out myself, so I am writing this for myself as much as for whoever is interested. 
 
 I consider this a living document. There will be revisions whenever I learn something new. I absolutely welcome constructive feedback. It can be a great starting point for a discussion about a very fascinating and often controversially discussed role. 
-<br/>
+
+
+
+
+
 
 
 -----------------------
