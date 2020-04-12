@@ -108,7 +108,6 @@ The flipside is a much narrower focus and the feeling of only marginally impacti
 The below list is meant as a high level comparison of the B2B and B2C sales models. Of course these are generalizations and they don’t have to apply to individual businesses. 
 In the context of customer relationships, it seems clear though that B2B generally includes more investment but also a higher return, [more stability and less uncertainties](https://www.atrium.co/blog/b2b-vs-b2c/).
 
-&nbsp;
 ||B2C|B2B|
 |---|---|---|
 |**Value**|Want|Need|
