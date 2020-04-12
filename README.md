@@ -65,9 +65,9 @@ The product development process outlined above encompasses a lot of responsibili
 * Create, refine and implement product vision and strategy in alignment with business goals (depending on the level of maturity, this can mean from building from scratch or continuing and refining). 
 Keep in mind, also [strategies start out as hypotheses](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)! 
 * Lead product discovery 
-  -Curate and develop product ideas and hypothesis
-  #Drive product experimentation and prototyping
-  *Own customer interviews and user testing
+  *Curate and develop product ideas and hypothesis
+   *Drive product experimentation and prototyping
+ *Own customer interviews and user testing
   *Conduct market and industry/ domain research, including competitive analysis
   *Manage and leverage relationship with stakeholders
   *Make heavy use of metrics and own product analytics (business, users/ customers, performance, utilizing OKRs)
