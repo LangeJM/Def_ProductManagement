@@ -1,5 +1,9 @@
 # Def_ProductManagement
 This is an attempt to provide a concise and relevant definition of the product management role
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
 ## Introduction
 Product Manager (PM) is an elusive and complex role and if you’re starting out it can be rather confusing and overwhelming. Everyone has an opinion about what makes a great PM. Are they the [CEO of the product](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) or rather the [sheepdog](https://www.oreilly.com/library/view/building-products-for/9781492024774/ch01.html), or is the role simply too diverse and contextual to provide a one-fits-all definition. It is a difficult task to (get to the point where you are able to) identify good resources on the subject that help you explore the role for yourself.
