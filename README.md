@@ -108,7 +108,7 @@ In the context of customer relationships, it seems clear though that B2B general
 
 
 |###|B2C|B2B|
-|---|---|
+|---|---|---|
 |**Value**|Want|Need|
 |**Customer Relationship**|Volatile Hookups|Stable Partnerships|
 |**Target Market**|Large|Narrow/ Niche|
