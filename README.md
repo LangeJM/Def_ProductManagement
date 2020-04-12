@@ -10,7 +10,6 @@ I consider this a living document. There will be revisions whenever I learn some
 
 &nbsp;
 -----------------------
-&nbsp;
 
 ## What is a Product?
 For a [high-level definition](https://www.mountaingoatsoftware.com/blog/what-is-a-product), “a product is something that is created through a process and that provides benefits to a market.” 
@@ -125,12 +124,13 @@ In the context of customer relationships, it seems clear though that B2B general
 |**Revenue Model**|Freemium,  Ads, In-apps purchase, Subscription|Subscription, License|
 |**Release Cycles**|Short|Longer|
 
+&nbsp;
 #### Cloud vs. On-prem
 This looks like an easy one. Cloud-based product delivery is on the rise for some time now and on-premise falls behind, so why even bother? 
 There are still some domains that prefer on-premise implementation mainly due to privacy concerns and compliance regulations.This is true for finance, insurance, security and public or large corporate organizations, among others. 
+&nbsp;
 
 Some of the [major differences](https://beenegarter.com/cloud-vs-on-premise-solutions-which-is-right-for-you/) for PMs to consider:
-&nbsp;
 |On-prem|Cloud-based|
 |---|---|
 |Longer release cycles (a few times per year)|Shorter release cycles|
