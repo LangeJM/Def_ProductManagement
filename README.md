@@ -8,11 +8,8 @@ This document is an attempt to provide a concise and relevant definition of the 
 
 I consider this a living document. There will be revisions whenever I learn something new. I absolutely welcome constructive feedback. It can be a great starting point for a discussion about a very fascinating and often controversially discussed role. 
 
-
-
-
-
-
+&nbsp;
+&nbsp;
 
 -----------------------
 
