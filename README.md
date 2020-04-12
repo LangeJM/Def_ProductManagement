@@ -9,10 +9,8 @@ This document is an attempt to provide a concise and relevant definition of the 
 I consider this a living document. There will be revisions whenever I learn something new. I absolutely welcome constructive feedback. It can be a great starting point for a discussion about a very fascinating and often controversially discussed role. 
 
 &nbsp;
-&nbsp;
-
 -----------------------
-
+&nbsp;
 
 ## What is a Product?
 For a [high-level definition](https://www.mountaingoatsoftware.com/blog/what-is-a-product), “a product is something that is created through a process and that provides benefits to a market.” 
@@ -40,11 +38,11 @@ Product discovery and delivery are not sequential but rather parallel and recipr
 
 This understanding of product development has picked up recently, operating under the term ‘dual-track agile’ or ‘dual-track design’, although terminology and underlying principles [have been around for quite some time](https://svpg.com/dual-track-agile/). 
 
-
+&nbsp;
 ###### The chart below adequately demonstrates the parallelism and reciprocity of product discovery and delivery, albeit from a [Lean UX design](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b) perspective. 
 
 ![alt text](https://github.com/LangeJM/Def_ProductManagement/blob/master/UX_Lean_Discovery.png)
-
+&nbsp;
 
 
 ## The Product Manager Role
@@ -111,7 +109,7 @@ The flipside is a much narrower focus and the feeling of only marginally impacti
 The below list is meant as a high level comparison of the B2B and B2C sales models. Of course these are generalizations and they don’t have to apply to individual businesses. 
 In the context of customer relationships, it seems clear though that B2B generally includes more investment but also a higher return, [more stability and less uncertainties](https://www.atrium.co/blog/b2b-vs-b2c/).
 
-
+&nbsp;
 ||B2C|B2B|
 |---|---|---|
 |**Value**|Want|Need|
@@ -132,7 +130,7 @@ This looks like an easy one. Cloud-based product delivery is on the rise for som
 There are still some domains that prefer on-premise implementation mainly due to privacy concerns and compliance regulations.This is true for finance, insurance, security and public or large corporate organizations, among others. 
 
 Some of the [major differences](https://beenegarter.com/cloud-vs-on-premise-solutions-which-is-right-for-you/) for PMs to consider:
-
+&nbsp;
 |On-prem|Cloud-based|
 |---|---|
 |Longer release cycles (a few times per year)|Shorter release cycles|
