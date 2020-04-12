@@ -7,6 +7,7 @@ Product Manager (PM) is an elusive and complex role and if you’re starting out
 This document is an attempt to provide a concise and relevant definition of the product management role, focussing on technology products (more than ever, [software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)). In many ways, I am still starting out myself, so I am writing this for myself as much as for whoever is interested. 
 
 I consider this a living document. There will be revisions whenever I learn something new. I absolutely welcome constructive feedback. It can be a great starting point for a discussion about a very fascinating and often controversially discussed role. 
+<br/>
 
 
 -----------------------
@@ -40,9 +41,9 @@ This understanding of product development has picked up recently, operating unde
 
 
 ###### The chart below adequately demonstrates the parallelism and reciprocity of product discovery and delivery, albeit from a [Lean UX design](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b) perspective. 
-<br/>
+
 ![alt text](https://github.com/LangeJM/Def_ProductManagement/blob/master/UX_Lean_Discovery.png)
-<br/>
+
 
 
 ## The Product Manager Role
