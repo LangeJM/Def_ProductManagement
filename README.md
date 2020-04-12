@@ -8,7 +8,9 @@ This document is an attempt to provide a concise and relevant definition of the 
 
 I consider this a living document. There will be revisions whenever I learn something new. I absolutely welcome constructive feedback. It can be a great starting point for a discussion about a very fascinating and often controversially discussed role. 
 
+
 -----------------------
+
 
 ## What is a Product?
 For a [high-level definition](https://www.mountaingoatsoftware.com/blog/what-is-a-product), “a product is something that is created through a process and that provides benefits to a market.” 
@@ -70,7 +72,7 @@ Keep in mind, also [strategies start out as hypotheses](https://jeffgothelf.com/
    - Own customer interviews and user testing
    - Conduct market and industry/ domain research, including competitive analysis
    - Manage and leverage relationship with stakeholders
-   - Make heavy use of metrics and own product analytics (business, users/ customers, performance, utilizing OKRs)
+   - Own product analytics and make heavy use of metrics (business, users/ customers, performance, OKRs)
 * Translate technical-to-business requirements in support of marketing efforts
 * Evangelize product internally and externally
 * Support the engineering team with project management activities around product delivery 
