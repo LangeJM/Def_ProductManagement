@@ -38,7 +38,9 @@ This understanding of product development has picked up recently, operating unde
 
 
 ######The chart below adequately demonstrates the parallelism and reciprocity of product discovery and delivery, albeit from a [Lean UX design](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b) perspective. 
+
 ![alt text](https://github.com/LangeJM/Def_ProductManagement/blob/master/UX_Lean_Discovery.png)
+
 
 ##The Product Manager Role
 
